@@ -1,0 +1,6 @@
+[submodule "Week 1/Week"]
+	path = Week 1/Week
+	url = https://github.com/DataGlacier/VC
+[submodule "Week 1/Wee 1/VC"]
+	path = Week 1/Wee 1/VC
+	url = https://github.com/DataGlacier/VC
